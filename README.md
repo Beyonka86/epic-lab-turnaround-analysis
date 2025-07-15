@@ -21,7 +21,6 @@ Epic-Lab-Turnaround-Analysis/
 │   ├── dept_vs_testtype_heatmap.png
 │   └── order_collect_result_delays.png
 ├── Epic_Lab_Analysis.ipynb
-├── Epic_Lab_Analysis.html
 └── README.md
 ```
 
